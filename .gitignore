@@ -1,7 +1,8 @@
 *.a
 ADC_Socket_bsp/obj/*
 ADC_Socket_bsp/.settings/*
-
+*~
+*#
 *.elf
 *.map
 *.objdump
