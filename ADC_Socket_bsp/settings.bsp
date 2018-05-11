@@ -2,8 +2,8 @@
 <sch:Settings xmlns:sch="http://www.altera.com/embeddedsw/bsp/schema">
         <BspType>ucosii</BspType>
         <BspVersion>default</BspVersion>
-        <BspGeneratedTimeStamp>May 11, 2018 2:32:56 PM</BspGeneratedTimeStamp>
-        <BspGeneratedUnixTimeStamp>1526074376170</BspGeneratedUnixTimeStamp>
+        <BspGeneratedTimeStamp>May 11, 2018 2:36:32 PM</BspGeneratedTimeStamp>
+        <BspGeneratedUnixTimeStamp>1526074592568</BspGeneratedUnixTimeStamp>
         <BspGeneratedLocation>./</BspGeneratedLocation>
         <BspSettingsFile>../ADC_Socket_bsp/settings.bsp</BspSettingsFile>
         <SopcDesignFile>../../Nios_CPU_qsys.sopcinfo</SopcDesignFile>
