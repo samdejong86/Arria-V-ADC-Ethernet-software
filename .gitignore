@@ -10,3 +10,4 @@ ADC_Socket_bsp/summary.html
 ADC_Socket/mem_init/*
 ADC_Socket/obj/*
 ADC_Socket/.settings/*
+*.dat
