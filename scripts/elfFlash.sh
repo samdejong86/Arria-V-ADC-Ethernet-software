@@ -7,5 +7,5 @@ export QUARTUS_ROOTDIR=${quartusLoc%$stringToRemove}
 
 
 cd ../ADC_Socket
-elf2flash --input=ADC_Socket.elf --output=ext_flash.flash --base=0x0 --end=0x07FFFFFF --boot=/home/srdejong/intelFPGA/16.1/nios2eds/components/altera_nios2/boot_loader_cfi.srec
+elf2flash --input=ADC_Socket.elf --output=ext_flash.flash --base=0x0 --end=0x07FFFFFF --boot=$QUARTUS_ROOTDIR/../nios2eds/components/altera_nios2/boot_loader_cfi.srec
 cd $OLDPWD
